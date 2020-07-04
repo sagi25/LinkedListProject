@@ -1,0 +1,9 @@
+/Users/sagifrenkel/Projects/LinkedListProject/LinkedListProject/bin/Release/netcoreapp2.1/LinkedListProject.deps.json
+/Users/sagifrenkel/Projects/LinkedListProject/LinkedListProject/bin/Release/netcoreapp2.1/LinkedListProject.runtimeconfig.json
+/Users/sagifrenkel/Projects/LinkedListProject/LinkedListProject/bin/Release/netcoreapp2.1/LinkedListProject.runtimeconfig.dev.json
+/Users/sagifrenkel/Projects/LinkedListProject/LinkedListProject/bin/Release/netcoreapp2.1/LinkedListProject.dll
+/Users/sagifrenkel/Projects/LinkedListProject/LinkedListProject/bin/Release/netcoreapp2.1/LinkedListProject.pdb
+/Users/sagifrenkel/Projects/LinkedListProject/LinkedListProject/obj/Release/netcoreapp2.1/LinkedListProject.AssemblyInfoInputs.cache
+/Users/sagifrenkel/Projects/LinkedListProject/LinkedListProject/obj/Release/netcoreapp2.1/LinkedListProject.AssemblyInfo.cs
+/Users/sagifrenkel/Projects/LinkedListProject/LinkedListProject/obj/Release/netcoreapp2.1/LinkedListProject.dll
+/Users/sagifrenkel/Projects/LinkedListProject/LinkedListProject/obj/Release/netcoreapp2.1/LinkedListProject.pdb
